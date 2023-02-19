@@ -1,1 +1,2 @@
-Hey this is a simple text file. 
+Hey this is a simple text file.
+Made changes to check if the add command keeps track of the file. 
